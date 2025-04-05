@@ -1,5 +1,5 @@
 // import * as tf from '@tensorflow/tfjs'
-import * as tf from "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.15.0/dist/tf.esm.js";
+import * as tf from "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.15.0/dist/tf.min.js";
 import { inferenceModelsList } from './brainchop-parameters.js'
 import {
   addZeroPaddingTo3dTensor,
